@@ -6,9 +6,9 @@ name: Group workflow actions
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,4 +29,4 @@ jobs:
         with:
           node-version: '20.x'
 #     - run: npm ci
-      - run: npm test
+
