@@ -1,4 +1,11 @@
 Name: George Brown College located in Toronto, Canada.
+
 Address: 160 Kendal Ave, Toronto, ON M5T 2T9
+
 Contact: (416) 415-2000
 
+Website: www.georgebrown.ca
+
+Email: info@georgebrown.ca
+
+It is a Public College.
