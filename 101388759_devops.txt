@@ -1,3 +1,4 @@
 COMP2156- DevOps For System Administration
 Professor- Pritesh Patel
 Course Delivery Mode- Lecture and Labs both are Online.
+The passing grade for this course is: D (50%)
