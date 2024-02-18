@@ -11,6 +11,4 @@
 ### Repository Details###
 ### This repository is for the COMP2156 group assignment###
 ### Each member has 3 txt files within their own branch ###
-### All groups are successfully done with their 10 commits ###
-### last updated by khushman kaur ###
  
