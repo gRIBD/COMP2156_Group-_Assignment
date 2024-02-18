@@ -4,3 +4,5 @@ Professor:Pritesh Patel
 Class:Mode(Online)
 
 Class timing: Monday and Wednesday(6:00pm-8:00pm)
+
+Course name:DevOps for System Administration
