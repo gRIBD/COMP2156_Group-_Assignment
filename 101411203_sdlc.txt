@@ -1,1 +1,3 @@
 Learning DevOps is essential for optimizing software development by improving collaboration, automating processes, and ensuring continuous delivery and enhancement.
+ 
+DevOps emphasizes automation of various aspects of software development, including building, testing, deployment, and infrastructure provisioning.
