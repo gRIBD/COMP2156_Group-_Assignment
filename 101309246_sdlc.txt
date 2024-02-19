@@ -1,0 +1,3 @@
+DevOps is very important for engineers in the software development cycle because cycles are only becoming more complex and when you implement steps of 
+DevOps such as collaboration, intergration, and automation.  
+This will ensure everything and everyone will work toegther to create a high-quality software efficiently.

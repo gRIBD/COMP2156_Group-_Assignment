@@ -1,0 +1,2 @@
+DevOps emphasizes automation of various aspects of software development, including building, testing, deployment, and infrastructure provisioning
+DevOps promotes collaboration and communication between development, operations, and other teams involved in the software development lifecycle.
